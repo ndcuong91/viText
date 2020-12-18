@@ -1,0 +1,12 @@
+cv2
+torchvision
+onnxruntime
+torch
+python-Levenshtein
+google-cloud-vision
+pytesseract
+torchsummary
+pillow==6.1
+pandas
+torch==1.5.1
+torchvision==0.6.1
