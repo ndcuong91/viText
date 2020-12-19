@@ -1,9 +1,10 @@
 # crnn
-This repo implemented convolution recurrent neural nets(CRNN) for handwritten recognition, optical character recognition. CRNN can use for many text levels: character, word, or even a text line.
+This repo is about convolution recurrent neural nets(CRNN) for OCR. CRNN can use for many text levels: character, word, or even a text line.
+This repo is highly based on 
 
 
 # I. Dataset
-You must organize your dataset in the below structure
+You have to organize your dataset in the below structure
 ```
 data
 ├── train
@@ -34,9 +35,8 @@ There are some important options which you need to modify in **config_crnn.py**
 * imgH: 64
 * output_dir: where output's checkpoints store
 * gpu_train: 1, 0 or None
-* train_file: should be *train.txt* in Step 3 of section I. Dataset
-* val_file: should be *val.txt* in Step 3 of section I. Dataset
-* ckpt_prefix: should be [date of training] + [type of training] (e.g. '20200826_general')
+* train_file: link to *train.txt* 
+* val_file: lin to *val.txt*
 
 ## Train
 Training process was simplified, just type the command in your terminal and you should use the pretrain model

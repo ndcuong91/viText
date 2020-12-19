@@ -1,6 +1,6 @@
 ## viText - End-to-end OCR for Vietnamese
 viText provide a lot of things related to OCR (Optical Character Recognition) for Vietnamese such as: data, detector, classifier...
-Currently, viText can achieve good result
+Currently, viText focus on scanned document.
 
 ## Installation
 ```
@@ -9,8 +9,9 @@ pip install -e .
 ```
 
 ## Roadmaps
-- [ ] Update viOCR: CRNN
-- [ ] xyz
+- [x] Update viOCR: CRNN
+- [ ] Update viDet: DBnet
+- [ ] Update viReceipt
 
 ## Project structure
 ### 1. viData
@@ -22,10 +23,9 @@ viDet aims to locate position of text in document, now EAST and DBnet are availa
 (to be continue...)
 
 ### 3. viOCR
-Finally, OCR model likes vietocr, crnn (thanks to pbcquoc) and SRN will extract final results 
+Finally, OCR model likes vietocr (thanks to pbcquoc) and SRN will extract final results 
 (to be continue...)
 
 
-
-## Contact & Contribute
+## Contribute & Contact
 Simply make PR and contact me: titikid@gmail.com
