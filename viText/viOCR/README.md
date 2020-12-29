@@ -1,6 +1,6 @@
 # CRNN - Convolution recurrent neural network for OCR!
 CRNN can use for many text levels: character, word, or even a text line.
-This repo is highly based on [this implementation](https://github.com/pbcquoc/crnn) (th
+This repo is highly based on [this implementation](https://github.com/pbcquoc/crnn) (thanks pbcquoc)
 
 
 # I. Dataset
