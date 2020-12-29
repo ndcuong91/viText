@@ -1,5 +1,7 @@
 ## viText - End-to-end OCR for Vietnamese
 viText cung cấp 1 số công cụ liên quan đến nhận dạng ký tự tiếng Việt như dataset viReceipt, detetion hay OCR. Hiện tại viText làm việc tốt nhất với văn bản được scan
+
+![SAMPLE](https://github.com/titikid/viText/blob/dev/viText/outputs/scan2_visualized.jpg)
 ## Cài đặt
 Để cài đặt viText các bạn chạy lệnh sau
 ```
