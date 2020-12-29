@@ -10,11 +10,11 @@ pip install -e .
 ## Cấu trúc dự án 
 ### 1. viData
 
-Hiện tại bên mình đang xây dựng bộ dataset viReciept cho dữ liệu hóa đơn bán lẻ ở Việt Nam. Các bạn có thể sử dụng một vài mẫu ở trong thư mục viReceipt nhé 
+Hiện tại bên mình đang xây dựng bộ dataset viReceipts cho dữ liệu hóa đơn bán lẻ ở Việt Nam. Các bạn có thể sử dụng một vài mẫu ở trong thư mục viData/viReceipts nhé 
 
 ### 2. viDet
 viDet cung cấp một số models để giải quyết bài toán detect text trong văn bản
-- [x] DBnet
+- [ ] DBnet
 - [ ] EAST
 (to be continue...)
 
