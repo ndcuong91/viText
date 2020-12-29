@@ -5,6 +5,7 @@ viText cung cấp 1 số công cụ liên quan đến **nhận dạng ký tự t
 ## Cài đặt
 Để cài đặt viText các bạn chạy lệnh sau
 ```
+git clone https://github.com/ndcuong91/viText.git
 cd viText
 pip install -e .
 ```
