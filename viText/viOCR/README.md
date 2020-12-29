@@ -75,7 +75,7 @@ python train.py
 **We're still finding the best checkpoint, so this checkpoint is not final**
 ```
     import cv2
-    from viText.viOCR.source.crnncrnn_class import Classifier_CRNN
+    from viText.viOCR.sources.crnncrnn_class import Classifier_CRNN
 
     img_data = cv2.imread('data/sample.jpg')
     classifier = Classifier_CRNN(ckpt_path='checkpoints/20200912_ocr_dataset_64_VGG_like_32_cer_0.0257.pth', imgW=512, imgH=64, gpu='0')

@@ -1,5 +1,5 @@
-from viText.viOCR.source.crnn.crnn_class import Classifier_CRNN
-from viText.viOCR.source.vietocr.vietocr_class import Classifier_Vietocr
+from viText.viOCR.sources.crnn.crnn_class import Classifier_CRNN
+from viText.viOCR.sources.vietocr.vietocr_class import Classifier_Vietocr
 import cv2
 
 img_path = 'data/sample.jpeg'
