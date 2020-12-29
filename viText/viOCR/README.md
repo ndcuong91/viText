@@ -1,6 +1,6 @@
-# crnn
-This repo is about convolution recurrent neural nets(CRNN) for OCR. CRNN can use for many text levels: character, word, or even a text line.
-This repo is highly based on 
+# CRNN - Convolution recurrent neural network for OCR!
+CRNN can use for many text levels: character, word, or even a text line.
+This repo is highly based on [this implementation](https://github.com/pbcquoc/crnn) (th
 
 
 # I. Dataset
@@ -72,7 +72,6 @@ python train.py
 | Vietocr (VGG19-bn - seq2seq)  | 12ms |
 
 ## Sample code 
-**We're still finding the best checkpoint, so this checkpoint is not final**
 ```
     import cv2
     from viText.viOCR.sources.crnncrnn_class import Classifier_CRNN
