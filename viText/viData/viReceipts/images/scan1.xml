@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>scan1.JPG</filename>
-	<path>/home/duycuong/PycharmProjects/research_py3/text_recognition/viText/viText/viData/viReceipts/images/scan1.JPG</path>
+	<path>/home/cuongnd/PycharmProjects/aicr/viText/viText/viData/viReceipts/images/scan1.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -648,7 +648,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>1</name>
+		<name>-</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

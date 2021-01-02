@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>scan3.JPG</filename>
-	<path>/home/duycuong/PycharmProjects/research_py3/text_recognition/viText/viText/viData/viReceipts/images/scan3.JPG</path>
+	<path>/home/cuongnd/PycharmProjects/aicr/viText/viText/viData/viReceipts/images/scan3.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -924,7 +924,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>EVAT</name>
+		<name>%VAT</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
