@@ -1728,7 +1728,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Tel: (024)</name>
+		<name>Tel:(024)</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -1764,7 +1764,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Gi ay,</name>
+		<name>Giay,</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

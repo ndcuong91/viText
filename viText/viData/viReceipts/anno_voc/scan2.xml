@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>scan2.JPG</filename>
-	<path>/home/duycuong/PycharmProjects/research_py3/text_recognition/viText/viText/viData/viReceipts/images/scan2.JPG</path>
+	<path>/home/cuongnd/PycharmProjects/aicr/viText/viText/viData/viReceipts/images/scan2.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -785,10 +785,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>200</xmin>
-			<ymin>238</ymin>
-			<xmax>309</xmax>
-			<ymax>258</ymax>
+			<xmin>201</xmin>
+			<ymin>237</ymin>
+			<xmax>310</xmax>
+			<ymax>257</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -845,7 +845,7 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>154</xmin>
+			<xmin>158</xmin>
 			<ymin>204</ymin>
 			<xmax>195</xmax>
 			<ymax>226</ymax>
@@ -900,7 +900,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>thoai: 04.33115757</name>
+		<name>thoại: 04.33115757</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

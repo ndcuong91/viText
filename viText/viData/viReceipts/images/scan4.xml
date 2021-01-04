@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>scan4.JPG</filename>
-	<path>/home/duycuong/PycharmProjects/research_py3/text_recognition/viText/viText/viData/viReceipts/images/scan4.JPG</path>
+	<path>/home/cuongnd/PycharmProjects/aicr/viText/viText/viData/viReceipts/images/scan4.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>217</xmin>
-			<ymin>947</ymin>
-			<xmax>229</xmax>
-			<ymax>969</ymax>
+			<xmin>219</xmin>
+			<ymin>951</ymin>
+			<xmax>227</xmax>
+			<ymax>968</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -762,9 +762,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>162</xmin>
-			<ymin>314</ymin>
+			<ymin>315</ymin>
 			<xmax>263</xmax>
-			<ymax>339</ymax>
+			<ymax>340</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -905,10 +905,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>177</xmin>
-			<ymin>258</ymin>
-			<xmax>190</xmax>
-			<ymax>281</ymax>
+			<xmin>180</xmin>
+			<ymin>261</ymin>
+			<xmax>188</xmax>
+			<ymax>277</ymax>
 		</bndbox>
 	</object>
 	<object>

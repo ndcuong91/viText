@@ -324,7 +324,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>EXEMPTIONS</name>
+		<name>EXEMPTION</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
