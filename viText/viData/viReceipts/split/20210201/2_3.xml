@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
-	<filename>scan4.JPG</filename>
-	<path>/home/cuongnd/PycharmProjects/aicr/viText/viText/viData/viReceipts/images/scan4.JPG</path>
+	<folder>20210201</folder>
+	<filename>2_3.jpg</filename>
+	<path>C:\Users\sev_user\PycharmProjects\aicr\viText\viText\viData\viReceipts\split\20210201\2_3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -475,8 +475,8 @@
 		<bndbox>
 			<xmin>379</xmin>
 			<ymin>585</ymin>
-			<xmax>524</xmax>
-			<ymax>614</ymax>
+			<xmax>522</xmax>
+			<ymax>612</ymax>
 		</bndbox>
 	</object>
 	<object>

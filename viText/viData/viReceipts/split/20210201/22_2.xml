@@ -1,7 +1,7 @@
 <annotation>
-	<folder>viReceipts</folder>
+	<folder>20210201</folder>
 	<filename>22_2.jpg</filename>
-	<path>/home/duycuong/PycharmProjects/dataset/viReceipts/22_2.jpg</path>
+	<path>C:\Users\sev_user\PycharmProjects\aicr\viText\viText\viData\viReceipts\split\20210201\22_2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -413,10 +413,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>608</xmin>
+			<xmin>607</xmin>
 			<ymin>832</ymin>
 			<xmax>729</xmax>
-			<ymax>859</ymax>
+			<ymax>861</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -750,9 +750,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>252</xmin>
-			<ymin>536</ymin>
-			<xmax>390</xmax>
-			<ymax>562</ymax>
+			<ymin>533</ymin>
+			<xmax>391</xmax>
+			<ymax>566</ymax>
 		</bndbox>
 	</object>
 	<object>

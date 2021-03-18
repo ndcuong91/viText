@@ -1,7 +1,7 @@
 <annotation>
-	<folder>manual</folder>
+	<folder>20210201</folder>
 	<filename>5_3.jpg</filename>
-	<path>D:\Desktop\AICR\Korea\AICR_v13_proj\manual\5_3.jpg</path>
+	<path>C:\Users\sev_user\PycharmProjects\aicr\viText\viText\viData\viReceipts\split\20210201\5_3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -1173,30 +1173,6 @@
 			<ymin>336</ymin>
 			<xmax>435</xmax>
 			<ymax>353</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name/>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>388</xmin>
-			<ymin>326</ymin>
-			<xmax>452</xmax>
-			<ymax>336</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name/>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>339</xmin>
-			<ymin>327</ymin>
-			<xmax>386</xmax>
-			<ymax>335</ymax>
 		</bndbox>
 	</object>
 	<object>

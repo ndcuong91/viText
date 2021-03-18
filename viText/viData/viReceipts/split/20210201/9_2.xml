@@ -1,7 +1,7 @@
 <annotation>
-	<folder>manual</folder>
+	<folder>20210201</folder>
 	<filename>9_2.jpg</filename>
-	<path>D:\Desktop\AICR\Korea\AICR_v13_proj\manual\9_2.jpg</path>
+	<path>C:\Users\sev_user\PycharmProjects\aicr\viText\viText\viData\viReceipts\split\20210201\9_2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -36,27 +36,15 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>60</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>511</xmin>
-			<ymin>1104</ymin>
-			<xmax>563</xmax>
-			<ymax>1142</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>000d</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>582</xmin>
+			<xmin>515</xmin>
 			<ymin>1102</ymin>
 			<xmax>678</xmax>
-			<ymax>1138</ymax>
+			<ymax>1143</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -138,21 +126,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>508</xmin>
-			<ymin>909</ymin>
-			<xmax>566</xmax>
+			<ymin>906</ymin>
+			<xmax>659</xmax>
 			<ymax>942</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>000đ</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>569</xmin>
-			<ymin>905</ymin>
-			<xmax>653</xmax>
-			<ymax>938</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -606,21 +582,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>423</xmin>
-			<ymin>235</ymin>
-			<xmax>452</xmax>
+			<ymin>234</ymin>
+			<xmax>504</xmax>
 			<ymax>263</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>15</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>472</xmin>
-			<ymin>233</ymin>
-			<xmax>506</xmax>
-			<ymax>261</ymax>
 		</bndbox>
 	</object>
 	<object>

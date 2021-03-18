@@ -1,7 +1,7 @@
 <annotation>
-	<folder>manual</folder>
+	<folder>20210201</folder>
 	<filename>6_2.jpg</filename>
-	<path>D:\Desktop\AICR\Korea\AICR_v13_proj\manual\6_2.jpg</path>
+	<path>C:\Users\sev_user\PycharmProjects\aicr\viText\viText\viData\viReceipts\split\20210201\6_2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -127,8 +127,8 @@
 		<bndbox>
 			<xmin>126</xmin>
 			<ymin>1432</ymin>
-			<xmax>250</xmax>
-			<ymax>1458</ymax>
+			<xmax>249</xmax>
+			<ymax>1462</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -235,8 +235,8 @@
 		<bndbox>
 			<xmin>519</xmin>
 			<ymin>1371</ymin>
-			<xmax>597</xmax>
-			<ymax>1395</ymax>
+			<xmax>596</xmax>
+			<ymax>1397</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -456,27 +456,15 @@
 		</bndbox>
 	</object>
 	<object>
-		<name/>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>640</xmin>
-			<ymin>1222</ymin>
-			<xmax>685</xmax>
-			<ymax>1249</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>51,</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>592</xmin>
-			<ymin>1219</ymin>
-			<xmax>636</xmax>
-			<ymax>1250</ymax>
+			<xmin>594</xmin>
+			<ymin>1220</ymin>
+			<xmax>685</xmax>
+			<ymax>1251</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -924,18 +912,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>line:</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>260</xmin>
-			<ymin>719</ymin>
-			<xmax>334</xmax>
-			<ymax>748</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>Hot</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -943,8 +919,8 @@
 		<bndbox>
 			<xmin>212</xmin>
 			<ymin>717</ymin>
-			<xmax>262</xmax>
-			<ymax>746</ymax>
+			<xmax>331</xmax>
+			<ymax>748</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1037,9 +1013,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>400</xmin>
+			<xmin>403</xmin>
 			<ymin>579</ymin>
-			<xmax>434</xmax>
+			<xmax>433</xmax>
 			<ymax>598</ymax>
 		</bndbox>
 	</object>
@@ -1049,10 +1025,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>370</xmin>
+			<xmin>372</xmin>
 			<ymin>577</ymin>
-			<xmax>402</xmax>
-			<ymax>599</ymax>
+			<xmax>400</xmax>
+			<ymax>597</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1109,9 +1085,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>366</xmin>
-			<ymin>555</ymin>
-			<xmax>405</xmax>
+			<xmin>369</xmin>
+			<ymin>554</ymin>
+			<xmax>402</xmax>
 			<ymax>577</ymax>
 		</bndbox>
 	</object>
@@ -1146,8 +1122,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>345</xmin>
-			<ymin>552</ymin>
-			<xmax>369</xmax>
+			<ymin>554</ymin>
+			<xmax>365</xmax>
 			<ymax>573</ymax>
 		</bndbox>
 	</object>
@@ -1265,10 +1241,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>469</xmin>
+			<xmin>470</xmin>
 			<ymin>988</ymin>
 			<xmax>518</xmax>
-			<ymax>1022</ymax>
+			<ymax>1021</ymax>
 		</bndbox>
 	</object>
 </annotation>

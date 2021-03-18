@@ -1,13 +1,13 @@
 <annotation>
-	<folder>viReceipts</folder>
+	<folder>20210201</folder>
 	<filename>17_3.jpg</filename>
-	<path>/home/duycuong/PycharmProjects/dataset/viReceipts/17_3.jpg</path>
+	<path>C:\Users\sev_user\PycharmProjects\aicr\viText\viText\viData\viReceipts\split\20210201\17_3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>0</width>
-		<height>0</height>
+		<width>978</width>
+		<height>1998</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -1224,18 +1224,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>JOURS</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>537</xmin>
-			<ymin>143</ymin>
-			<xmax>705</xmax>
-			<ymax>191</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>TOUS</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -1243,20 +1231,32 @@
 		<bndbox>
 			<xmin>322</xmin>
 			<ymin>142</ymin>
-			<xmax>470</xmax>
-			<ymax>181</ymax>
+			<xmax>468</xmax>
+			<ymax>187</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>les</name>
+		<name>1</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>474</xmin>
-			<ymin>140</ymin>
-			<xmax>532</xmax>
-			<ymax>182</ymax>
+			<ymin>141</ymin>
+			<xmax>528</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>539</xmin>
+			<ymin>141</ymin>
+			<xmax>707</xmax>
+			<ymax>191</ymax>
 		</bndbox>
 	</object>
 </annotation>
