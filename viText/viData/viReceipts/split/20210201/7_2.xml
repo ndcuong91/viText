@@ -1,7 +1,7 @@
 <annotation>
-	<folder>manual</folder>
+	<folder>20210201</folder>
 	<filename>7_2.jpg</filename>
-	<path>D:\Desktop\AICR\Korea\AICR_v13_proj\manual\7_2.jpg</path>
+	<path>C:\Users\sev_user\PycharmProjects\aicr\viText\viText\viData\viReceipts\split\20210201\7_2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -1008,18 +1008,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>BANH</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>104</xmin>
-			<ymin>707</ymin>
-			<xmax>152</xmax>
-			<ymax>730</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>MOOKFILS</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -1037,9 +1025,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>59</xmin>
+			<xmin>61</xmin>
 			<ymin>706</ymin>
-			<xmax>107</xmax>
+			<xmax>149</xmax>
 			<ymax>731</ymax>
 		</bndbox>
 	</object>

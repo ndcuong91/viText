@@ -1,7 +1,7 @@
 <annotation>
-	<folder>manual</folder>
+	<folder>20210201</folder>
 	<filename>17_2.jpg</filename>
-	<path>D:\Desktop\AICR\Korea\AICR_v13_proj\manual\17_2.jpg</path>
+	<path>C:\Users\sev_user\PycharmProjects\aicr\viText\viText\viData\viReceipts\split\20210201\17_2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -780,25 +780,13 @@
 		</bndbox>
 	</object>
 	<object>
-		<name/>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>230</xmin>
-			<ymin>1124</ymin>
-			<xmax>286</xmax>
-			<ymax>1151</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>Stalk2kfcvietnam</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>303</xmin>
-			<ymin>1121</ymin>
+			<xmin>230</xmin>
+			<ymin>1119</ymin>
 			<xmax>638</xmax>
 			<ymax>1154</ymax>
 		</bndbox>
@@ -1484,7 +1472,7 @@
 			<xmin>113</xmin>
 			<ymin>316</ymin>
 			<xmax>266</xmax>
-			<ymax>343</ymax>
+			<ymax>346</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1749,18 +1737,6 @@
 			<ymin>706</ymin>
 			<xmax>122</xmax>
 			<ymax>738</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>.</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>288</xmin>
-			<ymin>1129</ymin>
-			<xmax>298</xmax>
-			<ymax>1150</ymax>
 		</bndbox>
 	</object>
 </annotation>

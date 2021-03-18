@@ -1,7 +1,7 @@
 <annotation>
-	<folder>viReceipts</folder>
+	<folder>20210201</folder>
 	<filename>20_3.jpg</filename>
-	<path>/home/duycuong/PycharmProjects/dataset/viReceipts/20_3.jpg</path>
+	<path>C:\Users\sev_user\PycharmProjects\aicr\viText\viText\viData\viReceipts\split\20210201\20_3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -858,9 +858,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>340</xmin>
-			<ymin>153</ymin>
-			<xmax>358</xmax>
-			<ymax>184</ymax>
+			<ymin>156</ymin>
+			<xmax>356</xmax>
+			<ymax>181</ymax>
 		</bndbox>
 	</object>
 	<object>
