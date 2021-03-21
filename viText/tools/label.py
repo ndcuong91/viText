@@ -32,13 +32,16 @@ def sort_pts(list_pts):
 def split_receipt_from_raw_img(img_dir, anno_dir, dst_dir):
     list_img = get_list_file_in_folder(img_dir, ext=['jpg', 'png', 'JPG', 'PNG', 'tif', 'tiff', 'TIFF'])
     list_img = sorted(list_img)
+    if not os.path.exists(dst_dir):
+        os.makedirs(dst_dir)
     for idx, img_name in enumerate(list_img):
         print(idx, img_name)
         # if idx != 7:
         #     continue
         img = cv2.imread(os.path.join(img_dir, img_name))
         anno_path = os.path.join(anno_dir, img_name.split('.')[0] + '.json')
-
+        if not os.path.exists(anno_path):
+            continue
         with open(anno_path) as json_file:
             data = json.load(json_file)
             for idx, poly in enumerate(data['shapes']):
@@ -68,7 +71,7 @@ def split_receipt_from_raw_img(img_dir, anno_dir, dst_dir):
 
 
 if __name__ == "__main__":
-    img_dir = '/home/cuongnd/PycharmProjects/aicr/viText/viText/viData/viReceipts/raw/20210319'
+    img_dir = '/home/duycuong/PycharmProjects/ocr/viText/viText/viData/viReceipts/raw/202103192'
     anno_dir = img_dir
-    dst_dir = '/home/cuongnd/PycharmProjects/aicr/viText/viText/viData/viReceipts/split/20210319'
+    dst_dir = '/home/duycuong/PycharmProjects/ocr/viText/viText/viData/viReceipts/split/202103192'
     split_receipt_from_raw_img(img_dir=img_dir, anno_dir=anno_dir, dst_dir=dst_dir)
