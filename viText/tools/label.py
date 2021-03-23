@@ -71,7 +71,7 @@ def split_receipt_from_raw_img(img_dir, anno_dir, dst_dir):
 
 
 if __name__ == "__main__":
-    img_dir = '/home/duycuong/PycharmProjects/ocr/viText/viText/viData/viReceipts/raw/202103192'
+    img_dir = '/home/cuongnd/PycharmProjects/aicr/viText/viText/viData/viReceipts/raw/20210323'
     anno_dir = img_dir
-    dst_dir = '/home/duycuong/PycharmProjects/ocr/viText/viText/viData/viReceipts/split/202103192'
+    dst_dir = '/home/cuongnd/PycharmProjects/aicr/viText/viText/viData/viReceipts/split/20210323'
     split_receipt_from_raw_img(img_dir=img_dir, anno_dir=anno_dir, dst_dir=dst_dir)
