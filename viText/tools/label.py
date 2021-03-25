@@ -30,6 +30,13 @@ def sort_pts(list_pts):
 
 
 def split_receipt_from_raw_img(img_dir, anno_dir, dst_dir):
+    '''
+    To work with data from labelme
+    :param img_dir:
+    :param anno_dir:
+    :param dst_dir:
+    :return:
+    '''
     list_img = get_list_file_in_folder(img_dir, ext=['jpg', 'png', 'JPG', 'PNG', 'tif', 'tiff', 'TIFF'])
     list_img = sorted(list_img)
     if not os.path.exists(dst_dir):
@@ -69,9 +76,39 @@ def split_receipt_from_raw_img(img_dir, anno_dir, dst_dir):
                 cv2.imwrite(os.path.join(dst_dir, img_name.split('.')[0] + '_' + str(idx + 1) + '.jpg'), trans_img)
                 cv2.waitKey(0)
 
+import random, shutil
+def rename_viReceipts(img_dir, anno_dir, dst_dir):
+    prefix='no'
+    list_img = get_list_file_in_folder(img_dir)
+    random.shuffle(list_img)
+    label_dir= os.path.join(dst_dir,'label')
+    if not os.path.exists(label_dir):
+        os.makedirs(label_dir)
+    for idx, img_name in enumerate(list_img):
+        print(idx, img_name)
+        base_name = img_name.split('.')[0]
+        anno_path_xml = os.path.join(anno_dir, base_name+'.xml')
+        new_name = prefix+'_'+str(idx).zfill(4)
+        if not os.path.exists(anno_path_xml):
+            shutil.copy(os.path.join(img_dir, img_name),os.path.join(dst_dir,new_name+'.jpg'))
+        else:
+            print('has label!')
+            shutil.copy(os.path.join(img_dir, img_name),os.path.join(label_dir,new_name+'.jpg'))
+            shutil.copy(anno_path_xml,os.path.join(label_dir, new_name + '.xml'))
+
+
+
+
 
 if __name__ == "__main__":
-    img_dir = '/home/cuongnd/PycharmProjects/aicr/viText/viText/viData/viReceipts/raw/20210323'
-    anno_dir = img_dir
-    dst_dir = '/home/cuongnd/PycharmProjects/aicr/viText/viText/viData/viReceipts/split/20210323'
-    split_receipt_from_raw_img(img_dir=img_dir, anno_dir=anno_dir, dst_dir=dst_dir)
+    # img_dir = '/home/cuongnd/PycharmProjects/aicr/viText/viText/viData/viReceipts/raw/20210323'
+    # anno_dir = img_dir
+    # dst_dir = '/home/cuongnd/PycharmProjects/aicr/viText/viText/viData/viReceipts/split/20210323'
+    # split_receipt_from_raw_img(img_dir=img_dir, anno_dir=anno_dir, dst_dir=dst_dir)
+
+    img_dir = '/home/cuongnd/PycharmProjects/aicr/viText/viText/viData/viReceipts/split/images/difficult'
+    anno_dir='/home/cuongnd/PycharmProjects/aicr/viText/viText/viData/viReceipts/split/anno'
+    dst_dir = '/home/cuongnd/PycharmProjects/aicr/viText/viText/viData/viReceipts/split/images/new_di'
+    rename_viReceipts(img_dir=img_dir,
+                      anno_dir=anno_dir,
+                      dst_dir=dst_dir)

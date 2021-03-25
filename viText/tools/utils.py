@@ -1,6 +1,6 @@
 import os
 
-def get_list_file_in_folder(dir, ext=['jpg', 'png', 'JPG', 'PNG']):
+def get_list_file_in_folder(dir, ext=['jpg', 'png', 'JPG', 'PNG','jfif']):
     included_extensions = ext
     file_names = [fn for fn in os.listdir(dir)
                   if any(fn.endswith(ext) for ext in included_extensions)]
