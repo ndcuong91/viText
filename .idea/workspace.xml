@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59d8aabe-dd73-4c07-a798-f91208aaff86" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/viText.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/tools/label.py" beforeDir="false" afterPath="$PROJECT_DIR$/viText/tools/label.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1 (10)_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1 (6)_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(10)-4_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(10)-4_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(11)-1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(11)-2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(13)-2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(15)-2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(15)-4_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(17)-2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(18)-1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(19)-1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(19)-2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(20)-3_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(21)-1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(22)-1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(23)-1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(25)-1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(26)-1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(27)-2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(28)-2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(28)-4_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(28)-6_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(3)-1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(30)-1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(30)-2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(31)-1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(32)-1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(32)-3_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(33)-2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(35)-6_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(36)-1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(36)-1_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(38)-2_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(39)-2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(4)-1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(40)-1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(40)-2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(41)-1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(41)-2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(43)-1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(44)-1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(45)-1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(49)-1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(50)-1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(50)-5_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(51)-2_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(52)-1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(52)-6_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(53)-1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(55)-1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(57)-3_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(58)-3_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(60)-1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(61)-1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(7)-1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(84)-1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(85)-1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(87)-1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(89)-1_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/1(9)-2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/16_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/16_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/17_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/18_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/26_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/26_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/28_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/30_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/33_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/33_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/38_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/43_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/43_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/44_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/45_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/50_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/50_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/53_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/56_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/78_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/atm/8_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/citymart/65_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/citymart/74_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/ducthanh/2_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/vin/10_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/vin/12_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/vin/12_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/vin/19_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/vin/19_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/vin/21_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/vin/21_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/vin/25_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/vin/33_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/vin/37_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/vin/38_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/vin/41_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/vin/60_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/vin/68_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/vin/70_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/vin/72_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/vin/72_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/vin/73_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/vin/73_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/backup/vin/77_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/0323_002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/0323_004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/0323_005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/0323_006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/0323_014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/051.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/082.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/089.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/103.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/120.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/136.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/141.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/148.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/151.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/16_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/18_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/18_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/22_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/38_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/40_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/50_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/51_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/55_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/5_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/5_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/67_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/6_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/6_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/71_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/75_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/76_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/79_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/7_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/80_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/81_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/8_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/8_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/9_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/difficult/internet_002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0000.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_di/no_0049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0000.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0000.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0001.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0002.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0003.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0004.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0005.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0006.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0007.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0008.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0009.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0010.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0011.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0012.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0013.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0014.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0016.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0017.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0018.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0019.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0020.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0021.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0022.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0023.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0024.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0025.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0026.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0027.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0028.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0029.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0030.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0030.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0031.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0032.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0033.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0034.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0035.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0036.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0037.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0038.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0039.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0040.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0041.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0042.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0045.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0046.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0047.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0048.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0049.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0050.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0051.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0051.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0052.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0052.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0053.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0053.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0054.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0055.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0055.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0056.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0056.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0057.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0057.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0058.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0058.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0059.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0059.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0060.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0061.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0061.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0062.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0062.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0063.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0063.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0064.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0065.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0065.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0066.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0066.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0067.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0067.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0068.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0068.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0069.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0069.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0070.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0070.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0071.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0071.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0072.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0072.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0073.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0073.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0074.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0074.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0075.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0075.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0076.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0076.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0077.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0077.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0078.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0078.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0080.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0080.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0083.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0083.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0084.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0084.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0085.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0085.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0086.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0086.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0087.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0087.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0088.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0088.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0089.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0089.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0090.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0090.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0091.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0091.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0092.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0092.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0093.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0093.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0095.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0095.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0096.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0096.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0097.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0097.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0098.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0098.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0099.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0099.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0100.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0101.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0101.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0102.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0102.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0103.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0103.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0104.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0105.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0105.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0106.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0106.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0108.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0108.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0109.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0109.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0110.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0111.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0112.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0113.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0114.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0114.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0115.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0116.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0117.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0118.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0119.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0119.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0122.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0123.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0124.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0124.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0125.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0125.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0126.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0126.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0127.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0127.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0128.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0129.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0129.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0130.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0130.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0131.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0131.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0133.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0133.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0134.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0134.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0135.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0135.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0136.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0136.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0137.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0137.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0138.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0139.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0139.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0140.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0140.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0142.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0142.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0143.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0143.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0144.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0144.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0145.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0145.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0147.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0147.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0149.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0149.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0150.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0151.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0151.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0153.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0153.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0154.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0155.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0155.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0156.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0156.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0157.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0157.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0159.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0159.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0160.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0160.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0161.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0161.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0162.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0162.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0163.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0163.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0165.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0165.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0166.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0166.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0167.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0167.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0168.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0168.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0169.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0169.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0170.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0170.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0171.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0171.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0172.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0172.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0173.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0173.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0174.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0174.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0175.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0175.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0176.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0176.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0177.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0177.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0179.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0179.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0180.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0180.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0181.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0181.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0182.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0182.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0184.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0184.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0185.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0185.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0186.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0186.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0187.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0187.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0188.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0188.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0189.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0189.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0190.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0190.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0191.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0191.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0192.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0192.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0193.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0193.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0194.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0194.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0195.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0195.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0196.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0196.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0197.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0197.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0198.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0198.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0199.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0199.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0200.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0201.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0201.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0202.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0202.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0204.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0204.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0205.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0205.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0206.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0206.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0207.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0207.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0208.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0208.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0209.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0209.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0210.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0210.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0211.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0211.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0214.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0214.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0215.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0215.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0216.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0216.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0217.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0217.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0218.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0218.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0219.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0219.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0220.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0220.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0221.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0221.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0222.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0222.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0223.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0223.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0225.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0225.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0226.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0226.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0227.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0227.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0228.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0228.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0229.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0229.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0230.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0230.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0231.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0231.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0232.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0232.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0233.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0233.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0234.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0234.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0235.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0235.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0236.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0236.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0237.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0237.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0238.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0238.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0239.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0239.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0240.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0240.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0241.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0241.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0242.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0242.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0243.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0243.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0244.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0244.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0245.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0245.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0246.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0246.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0247.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0247.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0248.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0248.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0249.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0249.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0250.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0250.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0251.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0251.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0252.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0252.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0253.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0253.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0255.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0255.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0257.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0257.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0259.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0259.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0260.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0260.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0261.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0261.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0262.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0262.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0263.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0263.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0264.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0264.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0265.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0265.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0267.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0267.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0268.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0268.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0269.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0269.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0270.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0270.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0271.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0271.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0272.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0272.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0273.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0273.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0274.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0274.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0275.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0275.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0276.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0276.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0277.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0277.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0278.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0278.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0279.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0279.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0280.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0280.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0281.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0281.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0282.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0282.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0283.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0283.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0284.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0284.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0285.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0285.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0286.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0286.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0288.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0288.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0289.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0289.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0291.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0291.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0292.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0292.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0293.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0293.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0295.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0295.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0296.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0296.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0297.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0297.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0298.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/new_no/no_0298.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/028.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/0323_001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/0323_003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/0323_007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/0323_008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/0323_009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/0323_010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/0323_011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/0323_012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/0323_013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/0323_015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/0323_016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/0323_017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/0323_018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/0323_019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/0323_020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/035.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/037.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/038.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/043.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/050.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/052.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/053.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/055.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/056.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/057.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/058.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/059.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/061.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/062.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/063.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/065.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/066.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/067.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/068.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/069.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/070.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/071.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/072.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/073.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/074.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/075.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/076.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/077.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/078.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/079.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/080.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/081.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/083.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/084.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/085.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/086.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/087.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/088.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/090.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/091.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/092.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/093.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/094.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/095.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/096.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/097.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/098.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/099.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/101.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/102.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/105.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/106.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/107.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/108.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/109.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/10_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/110.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/114.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/115.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/119.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/11_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/11_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/124.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/125.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/126.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/127.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/129.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/130.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/131.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/132.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/133.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/134.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/135.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/137.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/139.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/13_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/13_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/142.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/143.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/144.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/145.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/146.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/147.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/149.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/14_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/153.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/155.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/156.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/157.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/158.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/159.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/15_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/15_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/15_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/160.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/161.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/162.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/163.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/164.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/165.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/166.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/16_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/16_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/17_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/17_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/17_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/19_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/20_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/20_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/21_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/22_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/22_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/23_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/23_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/25_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/25_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/26_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/28_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/28_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/28_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/29_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/29_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/29_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/29_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/2_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/30_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/30_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/30_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/32_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/32_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/32_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/33_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/33_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/33_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/33_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/34_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/34_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/37_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/38_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/39_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/39_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/40_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/40_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/41_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/42_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/42_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/43_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/43_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/44_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/44_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/45_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/45_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/46_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/46_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/46_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/49_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/49_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/49_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/4_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/4_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/4_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/50_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/51_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/52_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/52_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/52_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/53_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/53_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/55_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/55_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/55_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/56_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/56_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/56_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/62_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/63_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/63_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/64_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/64_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/65_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/66_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/66_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/68_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/69_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/70_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/71_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/74_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/74_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/75_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/75_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/76_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/77_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/77_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/78_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/78_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/79_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/79_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/7_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/80_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/80_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/81_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/81_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/81_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/9_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/9_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_005.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_006.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_009.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_012.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_013.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_014.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_015.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_016.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_018.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_019.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_022.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_023.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_025.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viData/viReceipts/split/images/normal/internet_026.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/viText/viOCR/requirements.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/viText/tools/common.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/viText/tools/label.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/viText/tools/common.py" />
+        <option value="$PROJECT_DIR$/viText/tools/label.py" />
+        <option value="$PROJECT_DIR$/viText/viOCR/requirements.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="1595" />
+    <option name="y" value="27" />
+    <option name="width" value="2184" />
+    <option name="height" value="2133" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="viText" type="b2602c69:ProjectViewProjectNode" />
+              <item name="viText" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="viText" type="b2602c69:ProjectViewProjectNode" />
+              <item name="viText" type="462c0819:PsiDirectoryNode" />
+              <item name="viText" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/viText" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59d8aabe-dd73-4c07-a798-f91208aaff86" name="Default Changelist" comment="" />
+      <created>1616662270722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616662270722</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1595" y="27" width="2184" height="2133" extended-state="4" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32950574" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/viText/tools/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viText/tools/label.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

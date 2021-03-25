@@ -1,4 +1,4 @@
-from viText.tools.utils import get_list_file_in_folder
+from viText.tools.common import get_list_file_in_folder
 import json, os, cv2, math
 import numpy as np
 
@@ -95,9 +95,6 @@ def rename_viReceipts(img_dir, anno_dir, dst_dir):
             print('has label!')
             shutil.copy(os.path.join(img_dir, img_name),os.path.join(label_dir,new_name+'.jpg'))
             shutil.copy(anno_path_xml,os.path.join(label_dir, new_name + '.xml'))
-
-
-
 
 
 if __name__ == "__main__":
