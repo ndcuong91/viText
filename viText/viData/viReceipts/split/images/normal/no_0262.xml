@@ -1,7 +1,7 @@
 <annotation>
 	<folder>normal</folder>
 	<filename>no_0262.jpg</filename>
-	<path>/data4T/maintt/AICR/viText/viText/viData/viReceipts/split/images/normal/no_0262.jpg</path>
+	<path>/home/duycuong/PycharmProjects/ocr/viText/viText/viData/viReceipts/split/images/normal/no_0262.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -317,10 +317,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>124</xmin>
-			<ymin>1129</ymin>
-			<xmax>204</xmax>
-			<ymax>1174</ymax>
+			<xmin>129</xmin>
+			<ymin>1132</ymin>
+			<xmax>202</xmax>
+			<ymax>1173</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1145,9 +1145,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>169</xmin>
+			<xmin>170</xmin>
 			<ymin>553</ymin>
-			<xmax>222</xmax>
+			<xmax>223</xmax>
 			<ymax>588</ymax>
 		</bndbox>
 	</object>
