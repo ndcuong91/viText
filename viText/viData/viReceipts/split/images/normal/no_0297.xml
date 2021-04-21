@@ -1,7 +1,7 @@
 <annotation>
 	<folder>normal</folder>
 	<filename>no_0297.jpg</filename>
-	<path>/data4T/maintt/AICR/viText/viText/viData/viReceipts/split/images/normal/no_0297.jpg</path>
+	<path>/home/duycuong/PycharmProjects/ocr/viText/viText/viData/viReceipts/split/images/normal/no_0297.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -185,9 +185,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>485</xmin>
-			<ymin>1565</ymin>
-			<xmax>553</xmax>
+			<xmin>490</xmin>
+			<ymin>1567</ymin>
+			<xmax>551</xmax>
 			<ymax>1608</ymax>
 		</bndbox>
 	</object>
@@ -197,8 +197,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>555</xmin>
-			<ymin>1563</ymin>
+			<xmin>559</xmin>
+			<ymin>1565</ymin>
 			<xmax>612</xmax>
 			<ymax>1601</ymax>
 		</bndbox>
@@ -209,10 +209,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>104</xmin>
-			<ymin>1473</ymin>
-			<xmax>189</xmax>
-			<ymax>1518</ymax>
+			<xmin>108</xmin>
+			<ymin>1475</ymin>
+			<xmax>185</xmax>
+			<ymax>1519</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -533,10 +533,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>124</xmin>
-			<ymin>938</ymin>
-			<xmax>180</xmax>
-			<ymax>977</ymax>
+			<xmin>127</xmin>
+			<ymin>939</ymin>
+			<xmax>177</xmax>
+			<ymax>978</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -605,9 +605,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
-			<ymin>833</ymin>
-			<xmax>131</xmax>
+			<xmin>23</xmin>
+			<ymin>838</ymin>
+			<xmax>128</xmax>
 			<ymax>881</ymax>
 		</bndbox>
 	</object>
@@ -857,9 +857,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>162</xmin>
+			<xmin>164</xmin>
 			<ymin>461</ymin>
-			<xmax>243</xmax>
+			<xmax>245</xmax>
 			<ymax>493</ymax>
 		</bndbox>
 	</object>
@@ -989,10 +989,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>228</xmin>
-			<ymin>348</ymin>
-			<xmax>295</xmax>
-			<ymax>399</ymax>
+			<xmin>232</xmin>
+			<ymin>351</ymin>
+			<xmax>292</xmax>
+			<ymax>398</ymax>
 		</bndbox>
 	</object>
 	<object>
