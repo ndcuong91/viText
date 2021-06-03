@@ -1,7 +1,7 @@
 <annotation>
 	<folder>normal</folder>
 	<filename>no_0284.jpg</filename>
-	<path>/data4T/maintt/AICR/viText/viText/viData/viReceipts/split/images/normal/no_0284.jpg</path>
+	<path>/home/duycuong/PycharmProjects/ocr/viText/viText/viData/viReceipts/split/images/normal/no_0284.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -72,18 +72,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>0.7032731</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>260</xmin>
-			<ymin>1134</ymin>
-			<xmax>458</xmax>
-			<ymax>1173</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>0.85206586</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -91,8 +79,8 @@
 		<bndbox>
 			<xmin>141</xmin>
 			<ymin>1132</ymin>
-			<xmax>254</xmax>
-			<ymax>1170</ymax>
+			<xmax>455</xmax>
+			<ymax>1173</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -293,10 +281,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>664</xmin>
-			<ymin>771</ymin>
-			<xmax>797</xmax>
-			<ymax>836</ymax>
+			<xmin>673</xmin>
+			<ymin>763</ymin>
+			<xmax>796</xmax>
+			<ymax>835</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -353,10 +341,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>664</xmin>
-			<ymin>643</ymin>
+			<xmin>673</xmin>
+			<ymin>633</ymin>
 			<xmax>797</xmax>
-			<ymax>704</ymax>
+			<ymax>705</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -366,8 +354,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2</xmin>
-			<ymin>635</ymin>
-			<xmax>85</xmax>
+			<ymin>631</ymin>
+			<xmax>93</xmax>
 			<ymax>695</ymax>
 		</bndbox>
 	</object>
@@ -765,6 +753,18 @@
 			<ymin>1046</ymin>
 			<xmax>652</xmax>
 			<ymax>1076</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>1411</ymin>
+			<xmax>739</xmax>
+			<ymax>1443</ymax>
 		</bndbox>
 	</object>
 </annotation>

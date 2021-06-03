@@ -1,7 +1,7 @@
 <annotation>
 	<folder>normal</folder>
 	<filename>no_0293.jpg</filename>
-	<path>/data4T/maintt/AICR/viText/viText/viData/viReceipts/split/images/normal/no_0293.jpg</path>
+	<path>/home/duycuong/PycharmProjects/ocr/viText/viText/viData/viReceipts/split/images/normal/no_0293.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -55,8 +55,8 @@
 		<bndbox>
 			<xmin>168</xmin>
 			<ymin>1403</ymin>
-			<xmax>239</xmax>
-			<ymax>1442</ymax>
+			<xmax>235</xmax>
+			<ymax>1439</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -209,10 +209,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>441</xmin>
+			<xmin>447</xmin>
 			<ymin>1262</ymin>
 			<xmax>511</xmax>
-			<ymax>1304</ymax>
+			<ymax>1305</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -341,8 +341,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>266</xmin>
-			<ymin>1127</ymin>
+			<xmin>270</xmin>
+			<ymin>1129</ymin>
 			<xmax>355</xmax>
 			<ymax>1170</ymax>
 		</bndbox>
@@ -497,10 +497,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>138</xmin>
+			<xmin>147</xmin>
 			<ymin>860</ymin>
 			<xmax>229</xmax>
-			<ymax>897</ymax>
+			<ymax>898</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -605,10 +605,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>465</xmin>
-			<ymin>754</ymin>
-			<xmax>473</xmax>
-			<ymax>761</ymax>
+			<xmin>464</xmin>
+			<ymin>751</ymin>
+			<xmax>479</xmax>
+			<ymax>765</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -941,9 +941,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>398</xmin>
+			<xmin>401</xmin>
 			<ymin>351</ymin>
-			<xmax>609</xmax>
+			<xmax>612</xmax>
 			<ymax>380</ymax>
 		</bndbox>
 	</object>
@@ -1145,10 +1145,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>557</xmin>
-			<ymin>311</ymin>
-			<xmax>569</xmax>
-			<ymax>320</ymax>
+			<xmin>558</xmin>
+			<ymin>309</ymin>
+			<xmax>572</xmax>
+			<ymax>322</ymax>
 		</bndbox>
 	</object>
 </annotation>

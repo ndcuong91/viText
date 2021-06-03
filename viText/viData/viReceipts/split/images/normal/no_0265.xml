@@ -1,7 +1,7 @@
 <annotation>
 	<folder>normal</folder>
 	<filename>no_0265.jpg</filename>
-	<path>/data4T/maintt/AICR/viText/viText/viData/viReceipts/split/images/normal/no_0265.jpg</path>
+	<path>/home/duycuong/PycharmProjects/ocr/viText/viText/viData/viReceipts/split/images/normal/no_0265.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>536</xmin>
-			<ymin>1031</ymin>
-			<xmax>796</xmax>
-			<ymax>1087</ymax>
+			<xmin>543</xmin>
+			<ymin>1034</ymin>
+			<xmax>797</xmax>
+			<ymax>1077</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -535,8 +535,8 @@
 		<bndbox>
 			<xmin>264</xmin>
 			<ymin>376</ymin>
-			<xmax>538</xmax>
-			<ymax>418</ymax>
+			<xmax>368</xmax>
+			<ymax>415</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -595,8 +595,8 @@
 		<bndbox>
 			<xmin>356</xmin>
 			<ymin>300</ymin>
-			<xmax>476</xmax>
-			<ymax>333</ymax>
+			<xmax>451</xmax>
+			<ymax>331</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -801,6 +801,30 @@
 			<ymin>119</ymin>
 			<xmax>368</xmax>
 			<ymax>155</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>375</ymin>
+			<xmax>541</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>458</xmin>
+			<ymin>312</ymin>
+			<xmax>475</xmax>
+			<ymax>331</ymax>
 		</bndbox>
 	</object>
 </annotation>
