@@ -18,14 +18,14 @@ gpu = '0'
 dataset_name = 'invoice_retail'  # funsd, korea_English_test, Eval_Vietnamese or Cello_Vietnamese
 eval=True
 if dataset_name == 'funsd':
-    img_dir = '/data20.04/data/aicr/funsd_extra/dataset/testing_data/images'
-    gt_dir = '/data20.04/data/aicr/funsd_extra/dataset/testing_data/anno_voc'
+    img_dir = '/data20.04/data/funsd_extra/dataset/testing_data/images'
+    gt_dir = '/data20.04/data/funsd_extra/dataset/testing_data/anno_voc'
 elif dataset_name == 'Eval_Vietnamese':
-    img_dir = '/data20.04/data/data_Korea/Eval_Vietnamese/images'
-    gt_dir = '/data20.04/data/data_Korea/Eval_Vietnamese/GT_word_voc_refined1508'
-elif dataset_name == 'Cello_Vietnamese':
-    img_dir = '/data20.04/data/data_Korea/Cello_Vietnamese/images'
-    gt_dir = '/data20.04/data/data_Korea/Cello_Vietnamese/GT_word_voc_1908'
+    img_dir = '/data20.04/data/images'
+    gt_dir = '/data20.04/data/GT_word_voc_refined1508'
+elif dataset_name == 'Cell_Vietnamese':
+    img_dir = '/data20.04/data/data/images'
+    gt_dir = '/data20.04/data/data/GT_word_voc_1908'
 elif dataset_name == 'korea_English_test':
     img_dir = '/data20.04/data/data_Korea/korea_English_test/images'
     gt_dir = '/data20.04/data/data_Korea/korea_English_test/GT_word_voc'
@@ -36,8 +36,8 @@ else:
     if dataset_name=='invoice_retail':
         img_dir='/data20.04/data/data_invoice/invoice_retail'
 
-img_dir='/data20.04/data/aicr/Cello_data1'
-img_path = '/data20.04/data/aicr/619327481172390.jpg'
+img_dir='/data20.04/data/aicr/Celdata1'
+img_path = '/data20.04/data/619327481172390.jpg'
 img_path = ''
 # detector
 detector_ckpt_path = '/home/cuongnd/PycharmProjects/aicr/aicr.core2/engine/detector_db/detector_db/train/workspace/outputs/train_2020-12-14_19-05/model/model_epoch_945_minibatch_174000'
